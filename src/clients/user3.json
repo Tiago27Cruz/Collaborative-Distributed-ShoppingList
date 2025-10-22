@@ -1,0 +1,21 @@
+{
+    "0180671ab29402b36f23e5cbf26fa9e6": {
+        "node_id": "user3",
+        "p_counter": {
+            "banana": {
+                "user3": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user3": 3
+            },
+            "cocacola": {
+                "user3": 3
+            },
+            "banana": {
+                "user3": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "13719c1627ddc53fabcb4476a6311627": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            },
+            "banana": {
+                "user1": 2
+            }
+        }
+    },
+    "bb9bc30854ae2c26f23d55501aef7928": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            },
+            "banana": {
+                "user1": 2
+            }
+        }
+    }
+}

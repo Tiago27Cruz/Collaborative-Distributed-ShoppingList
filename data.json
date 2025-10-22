@@ -1,0 +1,193 @@
+{
+    "5374fe69a65bdfdf144ddbc1e6e68672": {
+        "node_id": "user2",
+        "p_counter": {
+            "banana": {
+                "user1": 2,
+                "user2": 15
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            },
+            "penis": {
+                "user2": 5
+            }
+        }
+    },
+    "e9ba2c4468e07ded529a2239b1d86835": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "f66ddea7291866d784154b3190b2191d": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "42908d51d801ff57c549249762567c4d": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "1cdacf55fcdbbec1b4b6357cb8c21461": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "de33a072dd4a758392a340f89c3ab178": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "454cdf241853c413c0ce331f40ae9f4b": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "912527e69aef16ac97324684dda53015": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "3ce5a5b7dd03ddf5eb5e9403109d04bb": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            }
+        }
+    },
+    "1eebbb55fd7a6ade3787002e5f87ceab": {
+        "node_id": "user1",
+        "p_counter": {},
+        "n_counter": {}
+    },
+    "b342840855ba1b29bc6a3c93025570bb": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            },
+            "banana": {
+                "user1": 2
+            }
+        }
+    },
+    "dfa374cae0b18f9c32705744ae4b6859": {
+        "node_id": "user1",
+        "p_counter": {
+            "banana": {
+                "user1": 2
+            }
+        },
+        "n_counter": {
+            "apple": {
+                "user1": 3
+            },
+            "cocacola": {
+                "user1": 3
+            },
+            "banana": {
+                "user1": 2
+            }
+        }
+    }
+}
